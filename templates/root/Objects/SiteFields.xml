@@ -452,4 +452,5 @@
     <Field ID="{cbf2ae22-2c77-4ad0-a639-07fddfb5cd81}" Name="GtMilestoneActualDate" StaticName="GtMilestoneActualDate" DisplayName="{resource:SiteFields_GtMilestoneActualDate_DisplayName}" Type="DateTime" Format="DateOnly" FriendlyDisplayFormat="Disabled" Group="{resource:SiteFields_Group}" />
     <Field Type="Text" DisplayName="Key" Group="{resource:SiteFields_Group}" ID="{e122c57e-2d2e-4852-9096-70cc1a30a2ff}" StaticName="GtKey" Name="GtKey"></Field>
     <Field Type="Text" DisplayName="Value" Group="{resource:SiteFields_Group}" ID="{60f1e1e1-4cff-4c1f-bb44-5b017393d17c}" StaticName="GtValue" Name="GtValue"></Field>
+    <Field ID="{c3246635-a618-42d8-b61b-7dca8275cdfe}" Type="Text" DisplayName="FpDepartment" StaticName="FpDepartment" Name="FpDepartment" />
 </pnp:SiteFields>

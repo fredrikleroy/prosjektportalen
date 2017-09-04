@@ -170,5 +170,10 @@
             <pnp:DataValue FieldName="GtDpOrder">250</pnp:DataValue>
             <pnp:DataValue FieldName="GtDpRender">Date</pnp:DataValue>
         </pnp:DataRow>
+         <pnp:DataRow>
+            <pnp:DataValue FieldName="GtDpProperty">FpDepartmentOWSTEXT</pnp:DataValue>
+            <pnp:DataValue FieldName="GtDpDisplayName">Avdeling</pnp:DataValue>
+            <pnp:DataValue FieldName="GtDpOrder">260</pnp:DataValue>
+        </pnp:DataRow>
     </pnp:DataRows>
 </pnp:ListInstance>
